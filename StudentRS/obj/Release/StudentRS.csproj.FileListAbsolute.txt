@@ -1,0 +1,11 @@
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\bin\Release\StudentRS.exe.config
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\bin\Release\StudentRS.exe
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\bin\Release\StudentRS.pdb
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\obj\Release\StudentRS.csprojAssemblyReference.cache
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\obj\Release\StudentRS.MainForm.resources
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\obj\Release\StudentRS.Properties.Resources.resources
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\obj\Release\StudentRS.csproj.GenerateResource.cache
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\obj\Release\StudentRS.exe
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\obj\Release\StudentRS.pdb
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\bin\Release\MecanicaAgricolBistrita.mdf
+D:\Emanuel\Informatica\C#\Proiecte personale\StudentRS\StudentRS\bin\Release\MecanicaAgricolBistrita_log.ldf

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<startButtons>
+  <button>
+    <text>Verificati Catalog</text>
+  </button>
+
+  <button>
+    <text>Adaugati Elev</text>
+  </button>
+
+  <button>
+    <text>Stergeti Elev</text>
+  </button>
+
+  <button>
+    <text>Adaugati Absente/Note</text>
+  </button>
+
+  <button>
+    <text>Iesiti din Aplicatie</text>
+  </button>
+</startButtons>
