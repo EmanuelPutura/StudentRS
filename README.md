@@ -1,11 +1,12 @@
 # StudentRS
- StudentRS is an application written in C#, which provides a class record book. Teachers using the application are able to add, remove or update students and their grades/absences.
- All students are stored in a database, each class being a table in the database.
+StudentRS is an application written in C#, which provides a class record book. Teachers using the application are able to add, remove or update students and their  grades/absences.
+The application connects to a SQL server database. All students are stored in a database, each class being a table in the database. 
  
  ![Main Menu](https://github.com/EmanuelPutura/StudentRS/blob/main/img/main_menu.png)
  
  ## Motivation and Future Improvements
- I created the application during highschool, as a helpful tool for my mother, who is a teacher. Hence, unfortunately, the application's UI is in Romanian. It is also worth mentioning that, being created a few years ago, during highschool, the application lacks several key concepts which I would use today, if I were to start refactoring the code (e.g., using a layered arhitecture, separating the user interface and the functionalities, better exception handling).
+I created the application during highschool, as a helpful tool for my mother, who is a teacher. Hence, unfortunately, the application's UI is in Romanian. It is also worth mentioning that, being created a few years ago, during highschool, the application lacks several key concepts which I would use today, if I were to start refactoring the code
+(e.g., using a layered arhitecture, separating the user interface and the functionalities, better exception handling).
  
  
  ## Setup
