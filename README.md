@@ -21,13 +21,17 @@
     
 ## Features
 1. Check the class record book
+   ![Check Class Menu](https://github.com/EmanuelPutura/StudentRS/blob/main/img/check_class.png)
    - see all the students in a given class, together with their grades and absences
    - select a class to check its record book (default available classes are XD and XIC)
 2. Add a student to the database
+   ![Add Menu](https://github.com/EmanuelPutura/StudentRS/blob/main/img/add_student.png)
    - select the student's class, then introduce his last name and his first name
 4. Delete a student from the database
+   ![Delete Menu](https://github.com/EmanuelPutura/StudentRS/blob/main/img/delete_student.png)
    - select the student's class, then introduce his last name and his first name
 6. Add grades/absences
+   ![Add Grades/Absences Menu](https://github.com/EmanuelPutura/StudentRS/blob/main/img/add_grades_absences.png)
    - select the student's class, then introduce his last name and his first name
    - add grades and/or absences for the student (e.g., add grade 9.5 and absence 10/09 - absence on the 10th of September)
 
