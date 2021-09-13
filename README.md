@@ -15,7 +15,7 @@
  2. From the project's location:
     ```sh
     $ cd ./StudentRS/bin/Release/
-    StudentRS.exe
+    # StudentRS.exe
     ```
     
 ## Features
